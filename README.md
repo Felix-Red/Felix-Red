@@ -1,7 +1,7 @@
 # Hi there, I'm Felix Mandyme 👋
 
 ### I am a Software Engineer 🧑‍💻
-I'm a final year **Bachelor of Computing** student at Belgium Campus ITversity, with a unique foundation in agriculture from my **Bachelor of Agriculture** degree earned at the University of Mpumalanga. My passion for software engineering is driven by a desire to create impactful solutions that can reach and benefit millions of people. Currently, I’m enrolled in an **Android mobile development learnership**, where I’m sharpening my skills to build innovative mobile applications.
+I'm a final year **Bachelor of Computing** student at Belgium Campus ITversity, I also hold a **Bachelor of Agriculture degree** from the University of Mpumalanga. My passion for software engineering is driven by a desire to create impactful solutions that can reach and benefit millions of people. Currently, I’m enrolled in an **Android mobile development learnership**, where I’m sharpening my skills to build innovative mobile applications.
 
 ## Interests
 💻Technology  🥷Anime  🎮Gaming  🥅Soccer  🎵Music  🚘Cars
