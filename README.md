@@ -1,7 +1,7 @@
-# Hi there, I'm Felix Mandyme 👋
+# Hi there, I'm Felix👋
 
 ### I am a Software Engineer 🧑‍💻
-I'm a software developer passionate about building modern, scalable, and intuitive applications. My primary focus is Android development with Kotlin and Jetpack Compose, while continuously expanding my skills in iOS development, backend engineering, and system design.
+I'm a software engineer passionate about building modern, scalable, and intuitive applications. My primary focus is Android development with Kotlin and Jetpack Compose, while continuously expanding my skills in iOS development, backend engineering, and system design.
 
 I enjoy turning ideas into functional products, exploring new technologies, and writing clean, maintainable code.
 
